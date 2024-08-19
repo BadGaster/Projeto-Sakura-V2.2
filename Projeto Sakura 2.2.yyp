@@ -37,7 +37,7 @@
   "name":"Projeto Sakura 2.2",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"_Attack","path":"sprites/_Attack/_Attack.yy",},},
+    {"id":{"name":"spr_player_attack_1","path":"sprites/spr_player_attack_1/spr_player_attack_1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
