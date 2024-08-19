@@ -38,6 +38,8 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_player_attack_1","path":"sprites/spr_player_attack_1/spr_player_attack_1.yy",},},
+    {"id":{"name":"spr_player_attack_2","path":"sprites/spr_player_attack_2/spr_player_attack_2.yy",},},
+    {"id":{"name":"spr_player_attack_3","path":"sprites/spr_player_attack_3/spr_player_attack_3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
