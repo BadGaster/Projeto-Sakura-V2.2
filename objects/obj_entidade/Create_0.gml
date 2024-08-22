@@ -9,3 +9,9 @@ velocidade_vertical_max = 1
 
 massa = 1
 ataque = 1
+
+xscale = 1
+
+mostra_estado = true
+
+estado = "parado"
