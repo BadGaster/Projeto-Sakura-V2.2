@@ -13,5 +13,6 @@ ataque = 1
 xscale = 1
 
 mostra_estado = true
+velocidade_de_imagem = 1
 
 estado = "parado"

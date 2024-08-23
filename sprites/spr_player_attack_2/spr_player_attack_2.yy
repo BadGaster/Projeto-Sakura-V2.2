@@ -28,7 +28,7 @@
   ],
   "name":"spr_player_attack_2",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"spr_player_attack",
     "path":"folders/Sprites/spr_player/spr_player_attack.yy",
@@ -95,7 +95,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":39,
+    "xorigin":35,
     "yorigin":40,
   },
   "swatchColours":null,
